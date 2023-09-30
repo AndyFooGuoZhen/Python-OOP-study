@@ -7,5 +7,5 @@
 
 # Pass by reference vs value
 - <img width="500" alt="image" src="https://github.com/AndyFooGuoZhen/Python-OOP-study/assets/77149531/d77386af-c1af-48eb-a60a-1f05b7baff82">
-- int, boolean , datatypes are pass by value
+- immutable datatypes such as int, boolean and strings are pass by value
 - list, sets, dict are pass by reference ( value changes when passed into a function )
